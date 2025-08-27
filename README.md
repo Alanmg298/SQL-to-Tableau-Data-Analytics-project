@@ -15,4 +15,4 @@ Focus on making business data actionable through analytics
 Technologies Used:
 SQL, Tableau
 
-Please check out the WIKI tab to check the whole process 
+------- Please check out the WIKI tab to check the whole process --------
