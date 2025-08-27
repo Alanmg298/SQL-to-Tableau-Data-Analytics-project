@@ -1,0 +1,43 @@
+Table: bg_artists
+Column Name	Data Type	Nullable
+Title	text	YES
+Artist 1	text	YES
+Artist 2	text	YES
+Artist 3	text	YES
+Artist 4	text	YES
+Artist 5	text	YES
+----------------------------------------------------------------------------------
+Table: bg_designers
+Column Name	Data Type	Nullable
+Title	text	YES
+Designer 1	text	YES
+Designer 2	text	YES
+Designer 3	text	YES
+Designer 4	text	YES
+Designer 5	text	YES
+----------------------------------------------------------------------------------
+Table: bg_info
+Column Name	Data Type	Nullable
+Title	text	YES
+Geek Rating	double precision	YES
+Avg rating	double precision	YES
+Num of voters	bigint	YES
+Price	double precision	YES
+Year	bigint	YES
+Complexity	double precision	YES
+Min players	numeric	YES
+Max players	numeric	YES
+Min time	double precision	YES
+Max time	double precision	YES
+Age	numeric	YES
+Type 1	text	YES
+Type 2	text	YES
+----------------------------------------------------------------------------------
+Table: bg_publishers
+Column Name	Data Type	Nullable
+Title	text	YES
+Publisher 1	text	YES
+Publisher 2	text	YES
+Publisher 3	text	YES
+Publisher 4	text	YES
+Publisher 5	text	YES
