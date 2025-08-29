@@ -1,6 +1,6 @@
 # SQL-to-Tableau-Data-Analytics-project
 
-This project demonstrates connecting a SQL database to Tableau for live data analysis.
+This project demonstrates connecting a postgresSQL database to Tableau for live data analysis.
 
 Key Features:
 
@@ -24,3 +24,6 @@ I'm working with the trial version of Tableau. Thus, I can only access 10,000 ro
 
 Dashboard published: https://public.tableau.com/app/profile/alan.garcia2259/viz/Board_games_17564896179710/BoardGamesDashboard?publish=yes
 Database with Kaggle: https://www.kaggle.com/datasets/fotopoulosvasileios/board-games-info-from-boardgamegeek-com
+
+
+<img width="1880" height="1074" alt="image" src="https://github.com/user-attachments/assets/ab311d3e-1a39-48f0-be18-f22de047d01a" />
