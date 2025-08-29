@@ -21,3 +21,6 @@ I'm working with the trial version of Tableau. Thus, I can only access 10,000 ro
 
 
 ------- Please check out the WIKI tab to check the whole process --------
+
+Dashboard published: https://public.tableau.com/app/profile/alan.garcia2259/viz/Board_games_17564896179710/BoardGamesDashboard?publish=yes
+Database with Kaggle: https://www.kaggle.com/datasets/fotopoulosvasileios/board-games-info-from-boardgamegeek-com
